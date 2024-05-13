@@ -11,7 +11,8 @@ module.exports = {
         coursesGold:"FFC983",
         courseSearchButton:"383A3C",
         toursBackground:"ECECED",
-        researchBackground:"ECECED"
+        researchBackground:"ECECED",
+        footerBG:"1D1D1D"
       }
     },
   },
